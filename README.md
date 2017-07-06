@@ -1,2 +1,1 @@
-# server.js
-this is server file
+This code is for web development
